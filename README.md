@@ -9,3 +9,5 @@
 17 Juni 2021
 - Lulus kelas Java di Dicoding (Sertifikat)
 
+18 Juni 2021
+- Lulus kelas Kotlin di Dicoding (Sertifikat)
